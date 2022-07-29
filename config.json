@@ -1,0 +1,9 @@
+{
+	"url" : "stratum+tcp://rx2.na.mine.zergpool.com:8335",
+	"user" : "LNec6RpZxX6Q1EJYkKjUPBTohM7Ux6uMUy",
+	"pass" : "c=LTC,id=docker",
+
+	"algo" : "rx2",
+
+	"no-color" : true
+}
