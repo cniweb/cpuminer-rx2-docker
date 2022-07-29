@@ -1,4 +1,4 @@
-# cpuminer-multi
+# cpuminer-rx2
 
 This is a multi-threaded CPU miner, fork of pooler's cpuminer.
 
