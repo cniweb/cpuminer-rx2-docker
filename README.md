@@ -2,7 +2,7 @@
 
 This is a multi-threaded CPU miner, fork of pooler's cpuminer.
 
-[![Snyk Container](https://github.com/cniweb/cpuminer-rx2-docker/actions/workflows/snyk-container-analysis.yml/badge.svg)](https://github.com/cniweb/cpuminer-rx2-docker/actions/workflows/snyk-container-analysis.yml)
+[![Snyk Container](https://github.com/cniweb/cpuminer-rx2-docker/actions/workflows/snyk-container.yml/badge.svg)](https://github.com/cniweb/cpuminer-rx2-docker/actions/workflows/snyk-container.yml)
 
 ## Usage from ghcr.io
 
